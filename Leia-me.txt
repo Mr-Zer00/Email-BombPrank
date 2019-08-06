@@ -1,0 +1,3 @@
+Este Codigo envia emails de spam para a caixa de entrada, e pode enviar mais atualizando o navegador.
+
+NOTA: Seu ip estara nos Spams que seram enviados, sugiro usar VPN.
